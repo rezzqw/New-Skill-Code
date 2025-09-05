@@ -1,1 +1,1 @@
-print('Hello from Mac')
+print('bye from Mac')
